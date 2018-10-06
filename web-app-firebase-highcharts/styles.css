@@ -1,0 +1,143 @@
+.jumbotron{
+    background-color:#2E2D88;
+    color:white;
+}
+.nav-tabs {
+    margin-bottom: 0;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #007bff;
+}
+
+.tab-content > .active {
+    display: block;
+}
+
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    font-size: 16px;
+}
+
+div.box1, div.box2 {
+    background-color: skyblue;
+    color: white;
+    padding: 25px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    /*float: left;*/
+    font-size: 20px;
+    /*box-shadow: 5px 5px 4px lightgray;*/
+    width: 100%;
+}
+
+div.box3, div.box4 {
+    background-color: lightskyblue;
+    color: white;
+    padding: 25px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    /*float: left;*/
+    font-size: 20px;
+    /*box-shadow: 5px 5px 4px lightgray;*/
+    width: 100%;
+}
+
+div.box5 {
+    background-color: royalblue;
+    color: white;
+    padding: 25px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    /*float: left;*/
+    font-size: 20px;
+    /*box-shadow: 5px 5px 4px lightgray;*/
+    width: 100%;
+}
+
+div.box6 {
+    background-color: skyblue;
+    color: white;
+    padding: 15px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    font-size: 14px;
+    width: 100%;
+}
+
+div.box7 {
+    background-color: lightskyblue;
+    color: white;
+    padding: 15px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    font-size: 14px;
+    width: 100%;
+}
+
+div.box8 {
+    background-color: royalblue;
+    color: white;
+    padding: 15px;
+    margin-top: 25px;
+    height: auto;
+    text-align: center;
+    font-family: "Segoe UI Semibold";
+    border-radius: 15px;
+    font-size: 14px;
+    width: 100%;
+}
+
+body {
+    font-family: "Segoe UI Semibold";
+    font-size: 14px;
+    margin: 15px;
+    text-align: left;
+    background-color: #f8f9fa;
+}
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+    font-family: "Segoe UI Semibold";
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+
